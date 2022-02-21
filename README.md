@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, SQL, and Web Dev
 - 💬 Ask me about 3D animation blender
 - 📫 How to reach me: Email
-- ⚡ Fun fact: I like spending 5 hours to automate a 20 second task
 
