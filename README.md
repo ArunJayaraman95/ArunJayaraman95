@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with ...
 Here are some ideas to get you started:
 -->
+- CHECK MY SCHEDULING WEBPAGE: https://arunjayaraman95.github.io/portfolio/#/scheduler
 - 🔭 I’m currently working on Rubik's Cube solver in Python
 - 🌱 I’m currently learning Python, SQL, and Web Dev
 - 💬 Ask me about 3D animation blender
